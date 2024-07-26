@@ -1,2 +1,2 @@
 # Fluttur-Moda-UI
-Fluttur Moda UI
+assets , lib ve pubspec dosyalarını default projeye yükleyerek çalıştırabilirsiniz.
